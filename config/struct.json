@@ -1,0 +1,36 @@
+{
+    "project": [
+        {
+            "name": "main-site",
+            "description": "AoristosのメインHP",
+            "paths": ["back.md", "db.md", "front.db", "index.md"]
+        },
+        {
+            "name": "chat-app",
+            "description": "簡易チャットツール",
+            "paths": ["back.md", "db.md", "front.db", "index.md"]
+        },
+        {
+            "name": "seiko-metaverse",
+            "description": "母校を再現したメタバース",
+            "paths": ["index.md"]
+        }
+    ],
+    "reference": [
+        {
+            "name": "aoristos-sql-db",
+            "description": "Aoristos専用SQL管理ライブラリ",
+            "paths": ["index.md"]
+        },
+        {
+            "name": "aoristos-metaverse-admin",
+            "description": "メタバース内のオブジェクトの管理ライブラリ",
+            "paths": ["index.md"]
+        },
+        {
+            "name": "aoristos-chat-system",
+            "description": "SQL・SkyWayを用いた通信用ライブラリ",
+            "paths": ["index.md"]
+        }
+    ]
+}
