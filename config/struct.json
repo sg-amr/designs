@@ -3,12 +3,12 @@
         {
             "name": "main-site",
             "description": "AoristosのメインHP",
-            "paths": ["back.md", "db.md", "front.db", "index.md"]
+            "paths": ["back.md", "db.md", "front.md", "index.md"]
         },
         {
             "name": "chat-app",
             "description": "簡易チャットツール",
-            "paths": ["back.md", "db.md", "front.db", "index.md"]
+            "paths": ["back.md", "db.md", "front.md", "index.md"]
         },
         {
             "name": "seiko-metaverse",
